@@ -37,6 +37,6 @@ took up more than 430GB of RAM during processing and with
 63 in use cores the training took over 7 hours.
 
 ### Data Sources
-(Payments)[https://openpaymentsdata.cms.gov/]
-(Prescription)[https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/PartD2014.html]
-(NPPES)[https://npiregistry.cms.hhs.gov]
+[Payments](https://openpaymentsdata.cms.gov/)
+[Prescription](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/PartD2014.html)
+[NPPES](https://npiregistry.cms.hhs.gov)
